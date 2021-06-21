@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection id="ANL|###KEY_COLLECTION_ID###">
+    <record type='Bibliographic'>
+        <leader>06330cam a2201129 a 4500</leader>
+        <controlfield tag="001">000024535473</controlfield>
+        <controlfield tag="003">AuCNLKIN</controlfield>
+        <controlfield tag="005">20201116054442.0</controlfield>
+        <controlfield tag="007">vr mn |||auuuu</controlfield>
+        <controlfield tag="008">010924r20011994at abf b 001 0 eng d</controlfield>
+        <datafield tag="010" ind1=" " ind2=" ">
+            <subfield code="a"> 2001430918</subfield>
+        </datafield>
+        <datafield tag="016" ind1=" " ind2=" ">
+            <subfield code="a">000024535473</subfield>
+            <subfield code="2">AU</subfield>
+        </datafield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">1875998977 (pbk.)</subfield>
+        </datafield>
+        <datafield tag="035" ind1=" " ind2=" ">
+            <subfield code="a">NED47597483</subfield>
+        </datafield>
+        <datafield tag="040" ind1=" " ind2=" ">
+            <subfield code="a">ANL</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">ANL</subfield>
+            <subfield code="d">QSCUC</subfield>
+            <subfield code="d">DLC</subfield>
+        </datafield>
+        <datafield tag="042" ind1=" " ind2=" ">
+            <subfield code="a">lccopycat</subfield>
+            <subfield code="a">anuc</subfield>
+        </datafield>
+        <datafield tag="043" ind1=" " ind2=" ">
+            <subfield code="a">u-at-qn</subfield>
+        </datafield>
+        <datafield tag="050" ind1="0" ind2="0">
+            <subfield code="a">DU280.C3</subfield>
+            <subfield code="b">T6575 2001</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="4">
+            <subfield code="a">994.36</subfield>
+            <subfield code="2">21</subfield>
+        </datafield>
+        <datafield tag="082" ind1="0" ind2="0">
+            <subfield code="a">994.3/8</subfield>
+            <subfield code="2">21</subfield>
+        </datafield>
+        <datafield tag="099" ind1="5" ind2=" ">
+            <subfield code="a">24004480</subfield>
+        </datafield>
+        <datafield tag="099" ind1="5" ind2=" ">
+            <subfield code="a">23554667</subfield>
+        </datafield>
+        <datafield tag="099" ind1="5" ind2=" ">
+            <subfield code="a">21680210</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Toohey, Edwina.</subfield>
+        </datafield>
+        <datafield tag="240" ind1="1" ind2="0">
+            <subfield code="a">Kie Daudai</subfield>
+        </datafield>
+        <datafield tag="245" ind1="1" ind2="0">
+            <subfield code="a">From bullock team to Puffing Billy :</subfield>
+            <subfield code="b">the Atherton Tableland and its hinterland : Aborigines and settlers, 1860s to 1994 /</subfield>
+            <subfield code="c">Edwina Toohey.</subfield>
+        </datafield>
+        <datafield tag="246" ind1="0" ind2=" ">
+            <subfield code="i">Subtitle on cover:</subfield>
+            <subfield code="a">the settling of the Atherton Tableland and its hinterland</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="a">Rockhampton, Qld. :</subfield>
+            <subfield code="b">Central Queensland University Press,</subfield>
+            <subfield code="c">2001.</subfield>
+        </datafield>
+        <datafield tag="300" ind1=" " ind2=" ">
+            <subfield code="a">100 p., [24] plates :</subfield>
+            <subfield code="b">ill., ports., maps ;</subfield>
+            <subfield code="c">25 cm.</subfield>
+        </datafield>
+        <datafield tag="338" ind1=" " ind2=" ">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+        </datafield>
+        <datafield tag="347" ind1=" " ind2=" ">
+            <subfield code="a">image file</subfield>
+            <subfield code="b">TIFF</subfield>
+            <subfield code="c">67MB</subfield>
+            <subfield code="2">rda</subfield>
+        </datafield>
+        <datafield tag="500" ind1=" " ind2=" ">
+            <subfield code="a">"Published under the title Kie Daudai, this book was shortlisted for the
+                Christina Smith Medal"--P. [4] of cover.</subfield>
+        </datafield>
+        <datafield tag="504" ind1=" " ind2=" ">
+            <subfield code="a">Includes bibliographical references (p. [92]-97) and index.</subfield>
+        </datafield>
+        <datafield tag="505" ind1="0" ind2=" ">
+            <subfield code="a">1. John Atherton's cattle run at Mareeba -- 2. the Gillies Highway
+                emerges from a packhorse drill -- 3. Heberton: the Tin-rush town of the 1880s -- 4. The
+                first selectors on the Evelyn Tableland -- 5. By Cobb &amp; Co to the Gulf via mining
+                towns of Watsonville, Montalbion, Irvinebank, Newellton -- 6. The founding of Atherton
+                and its pioneering farms -- 7. Ancient stories from Mt Bartle Frere, the crater lakes of
+                the Atheron Tableland, the Seven Sisters and the Boulders -- 8. Tree landmarks on the
+                Atherton Tableland -- 9. The Chillagoe copper mine and limestone caves -- 10. Mining and
+                cattle, the story of Mt Garnet, Coolgarra, Woodleigh and Mandalee -- 11. Stories from
+                Ravenshoe and the Koombooloomba goldfields -- 12. The magnificent hardwoods of the
+                Evelyn Tableland -- 13. The Aboriginal people and trailblazers of Millaa Millaa -- 14.
+                Tales from early Malanda, Yungaburra and Kureen.</subfield>
+        </datafield>
+        <datafield tag="510" ind1="2" ind2=" ">
+            <subfield code="a">Indexed selectively by ABI, Aboriginal and Torres Strait Islander
+                Biographical Index.</subfield>
+        </datafield>
+        <datafield tag="520" ind1=" " ind2=" ">
+            <subfield code="a">Sympathetic insights into the lifestyle of the indigenous peoples of the
+                Atherton Tablelands, and the tragic culture-clash with the hard working miners and
+                settlers.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Atherton, John,</subfield>
+            <subfield code="d">1837-1913.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Atherton, John.</subfield>
+        </datafield>
+        <datafield tag="600" ind1="1" ind2="0">
+            <subfield code="a">Atherton, John,</subfield>
+            <subfield code="d">1837-1913.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Pioneers</subfield>
+            <subfield code="z">Australia</subfield>
+            <subfield code="z">Cape York Peninsula (Qld.)</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="0">000035175264</subfield>
+            <subfield code="a">Aboriginal Australians</subfield>
+            <subfield code="z">Queensland</subfield>
+            <subfield code="z">Cape York Peninsula</subfield>
+            <subfield code="x">History.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="a">Pioneers</subfield>
+            <subfield code="z">Australia</subfield>
+            <subfield code="z">Queensland.</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Settlement and contacts.</subfield>
+            <subfield code="2">aiatsiss</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Settlement and contacts - Colonisation - 1851-</subfield>
+            <subfield code="2">aiatsiss</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Ngadyan / Ngadjon people (Y121) (Qld SE55-06)</subfield>
+            <subfield code="2">aiatsisl</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Yidiny / Yidindji people (Y117) (Qld SE55-06)</subfield>
+            <subfield code="2">aiatsisl</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Mbabaram / Bar-Barrum people (Y115) (Qld SE55-05)</subfield>
+            <subfield code="2">aiatsisl</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="7">
+            <subfield code="a">Dyirbal / Djirbal / Jirrabul people (Y123) (Qld SE55-05)</subfield>
+            <subfield code="2">aiatsisl</subfield>
+        </datafield>
+        <datafield tag="650" ind1=" " ind2="0">
+            <subfield code="0">000035119512</subfield>
+            <subfield code="a">Pioneers</subfield>
+            <subfield code="z">Queensland.</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="0">000035051869</subfield>
+            <subfield code="a">Cape York Peninsula (Qld.)</subfield>
+            <subfield code="x">History.</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="0">000036485866</subfield>
+            <subfield code="a">Cape York Peninsula (Qld.)</subfield>
+            <subfield code="x">Discovery and exploration.</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Cape York Peninsula (Qld.)</subfield>
+            <subfield code="x">Colonization.</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="0">000036107007</subfield>
+            <subfield code="a">Atherton Tableland (Qld.)</subfield>
+            <subfield code="x">History.</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Queensland, Far North</subfield>
+            <subfield code="x">History.</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Atherton Tableland (NE Qld SE55-05)</subfield>
+            <subfield code="2">aiatsisp</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Lake Eacham (NE Qld SE55-06)</subfield>
+            <subfield code="2">aiatsisp</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Lake Barrine (NE Qld SE55-06)</subfield>
+            <subfield code="2">aiatsisp</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Malanda (NE Qld SE55-06)</subfield>
+            <subfield code="2">aiatsisp</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Mareeba (NE Qld SE55-01, SE55-05)</subfield>
+            <subfield code="2">aiatsisp</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Millaa Millaa (NE Qld SE55-06)</subfield>
+            <subfield code="2">aiatsisp</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="7">
+            <subfield code="a">Ravenshoe (NE Qld SE55-05)</subfield>
+            <subfield code="2">aiatsisp</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Atherton Tableland (Qld)</subfield>
+            <subfield code="x">History.</subfield>
+        </datafield>
+        <datafield tag="651" ind1=" " ind2="0">
+            <subfield code="a">Mareeba (Qld.)</subfield>
+            <subfield code="x">History.</subfield>
+        </datafield>
+        <datafield tag="740" ind1="0" ind2="2">
+            <subfield code="a">From bullock team to Puffing Billy : : the settling of the Atherton
+                Tableland and its hinterland.</subfield>
+        </datafield>
+        <datafield tag="850" ind1=" " ind2=" ">
+            <subfield code="a">ANL</subfield>
+            <subfield code="b">891047</subfield>
+            <subfield code="c">N 994.36 T668</subfield>
+            <subfield code="c">NL 994.36 T668</subfield>
+        </datafield>
+
+    </record>
+</collection>
